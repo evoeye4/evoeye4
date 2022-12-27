@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)
 
-![Nike](https://img.shields.io/badge/-Nike-#111111?style=flat&logo=Nike&logoColor=white)
+![Nike](https://img.shields.io/badge/-Nike-111111?style=flat&logo=Nike&logoColor=white)
+
+
